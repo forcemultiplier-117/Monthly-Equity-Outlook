@@ -4,109 +4,15 @@ _Generated June 02, 2026_
 
 ---
 
-The Federal Reserve kept the fed funds rate unchanged at the 3.5%–3.75% target range for a third consecutive meeting in April, with the decision marked by the first FOMC dissent split since October 1992 as four officials voted against the hold.
+Based on the comprehensive data gathered, I can now write the global equity outlook for June 2026.
 
- 
+<cite index="2-17,2-21">The Federal Reserve is expected to maintain the federal funds target range at 3.50–3.75% at the June 16-17 FOMC meeting, with market-implied odds exceeding 97% for no change.</cite> <cite index="2-18,2-22">Elevated April 2026 CPI at 3.8% year-over-year, driven by an energy-price shock from the Middle East conflict, has pushed headline inflation well above the Fed's 2% target and tempered expectations for near-term easing.</cite> <cite index="10-6">Core CPI increased 0.4% monthly and 2.8% annually, remaining stubbornly above the Federal Reserve's 2% target.</cite> <cite index="10-7">Energy costs emerged as the primary driver of inflationary pressure, jumping 17.9% year-over-year in the steepest increase since September 2022.</cite> <cite index="7-1,7-2">The April FOMC decision saw an 8-4 vote, marking the first time since October 1992 that four officials dissented against a decision, reflecting a deeply divided committee navigating competing inflation and growth risks.</cite> <cite index="2-19,2-23">April nonfarm payrolls added 115,000 jobs, above consensus, with the unemployment rate steady at 4.3%, reinforcing a resilient labor market that reduces urgency for cuts.</cite> Financial conditions have tightened modestly as the 10-year Treasury yield approaches its 2026 highs, compressing equity risk premia. <cite index="14-5">The Survey of Professional Forecasters projects consumer price inflation to hit 6% for the second quarter, with the panel projecting full-year CPI at 3.5% for the all-items number and 2.9% for core.</cite> With the May employment report due June 5 and May CPI release on June 10, the data window ahead of the FOMC meeting will be critical for calibrating forward guidance; however, rate cuts in 2026 appear increasingly improbable absent a material downside surprise in economic activity.
 
-Minutes from the April meeting revealed that a majority of Fed officials highlighted that some policy firming would likely become appropriate if inflation were to continue to run persistently above 2%.
+<cite index="19-5,19-6,19-7">At this late stage of the Q1 earnings season, the S&P 500 continues to report impressive results, with both the percentage of companies reporting positive earnings surprises and the magnitude of surprises above recent averages, resulting in the index reporting its highest earnings growth rate since Q4 2021.</cite> <cite index="21-1,21-2">S&P 500 Q1 2026 earnings growth reached 29.3% year-over-year, marking the sixth consecutive quarter of double-digit earnings growth, with revenue growth of 11.3%.</cite> <cite index="93-1,93-5,93-6">The blended net profit margin for the S&P 500 for Q1 2026 is 14.8%, above the previous quarter's 13.2%, above the year-ago margin of 12.8%, and above the 5-year average of 12.3%—marking the highest net profit margin reported by the index since FactSet began tracking this metric in 2009.</cite> <cite index="92-6">At the sector level, Information Technology is leading with margins expanding to 29.1% versus 25.4% year-over-year, reflecting operational leverage and AI-driven efficiency gains.</cite> <cite index="69-6,69-7,69-8">For calendar year 2026, analysts project earnings growth of 22.6%, while the forward 12-month P/E ratio for the S&P 500 stands at 21.2, above both the 5-year average of 19.9 and the 10-year average of 18.9.</cite> <cite index="56-1,56-2,57-2">Amazon, Microsoft, Alphabet, and Meta plan to boost AI capex significantly, with hyperscalers expected to spend approximately $600 billion in 2026, up 36% year-over-year, with roughly 75% dedicated to AI infrastructure.</cite> <cite index="56-11">Key players are expected to spend approximately 90% of their operating cash flow on capex in 2026, up from 65% in 2025, raising questions about return thresholds and free cash flow generation in the medium term.</cite> While AI monetization remains in early innings, the capex intensity cycle creates positive spillovers across semiconductors, data center infrastructure, and power generation, though duration risk on these investments warrants careful monitoring.
 
- 
+<cite index="30-1,30-5">Eurozone GDP increased by only 0.1% quarter-over-quarter in Q1 2026, with year-over-year growth decelerating to 0.8% from 1.3% in the prior quarter.</cite> <cite index="29-10,29-11">Disruptions to shipping through the Strait of Hormuz following the Middle East conflict, together with attacks on energy infrastructure, have led to significant volatility in global energy markets and pushed up oil and gas prices.</cite> <cite index="74-1,74-2,74-3">The ECB kept its deposit facility rate unchanged at 2.00% in April, with upside risks to inflation and downside risks to growth having intensified.</cite> <cite index="75-1,75-3">For the next ECB meeting on June 11, 2026, market pricing implies a 92% probability of interest rates increasing to 2.25%, as elevated inflation requires a hawkish policy response.</cite> <cite index="47-1,47-5">China's Q1 2026 GDP growth reached 5% year-on-year, reversing the downward trend recorded in the latter half of 2025, driven by strong industrial output and export performance.</cite> <cite index="47-7,47-8">China has targeted a GDP growth rate of 4.5–5% for full-year 2026, though weak consumption and cost-push inflation from elevated energy prices present headwinds to achieving the upper bound.</cite> <cite index="83-7,83-8">European small caps are trading at 13.4x earnings, compared with 14.6x for Europe large caps, 19.7x for US small caps and 24x for US large caps, presenting a compelling relative value opportunity.</cite> <cite index="85-6">The valuation gap between US and European equities has narrowed, with the sell-off in Big Tech contributing to relative convergence.</cite> Geopolitical risk remains elevated given the ongoing Middle East conflict and its transmission to global supply chains, while tariff uncertainty continues to weigh on European export-oriented industrials, particularly German automakers exposed to both US protectionism and Chinese competition.
 
-The April 2026 CPI report delivered a stark reminder that inflation remains far more persistent than policymakers and investors had hoped, with consumer prices rising 0.6% on a seasonally adjusted basis for the month and the annual inflation rate accelerating to 3.8%—the highest level since May 2023.
-
- 
-
-Core CPI increased 0.4% monthly and 2.8% annually, while energy costs emerged as the primary driver, jumping 17.9% year-over-year in the steepest increase since September 2022.
-
- 
-
-The Survey of Professional Forecasters projects consumer price inflation to hit 6% for the second quarter, up dramatically from the 2.7% forecast just three months prior, reflecting the energy shock from Middle East hostilities.
-
- 
-
-Market-implied expectations indicate that participants anticipate little change in the target range for the federal funds rate this year, with options prices implying around a 30 percent probability of a rate hike by the first quarter of 2027, while the median Desk survey modal path shows two 25 basis point rate reductions expected to occur later than previously anticipated—in the third or fourth quarter of 2026 and first quarter of 2027.
-
- Financial conditions have tightened materially as the energy shock feeds through, with the 
-
-10-year Treasury yield surging to 4.46%, just two basis points shy of its 2026 high reached in March.
-
- The incoming Fed Chair Kevin Warsh faces a challenging policy environment as he assumes leadership, with the dual mandate increasingly difficult to navigate given the stagflationary cross-currents emanating from geopolitical disruption.
-
-
-
-At this late stage of the Q1 earnings season, the S&P 500 continues to report impressive results, with both the percentage of companies reporting positive earnings surprises and the magnitude of surprises above recent averages, and the index is reporting its highest earnings growth rate since Q4 2021.
-
- 
-
-With 97% of companies reported, Q1 2026 earnings growth stands at +29.3%, marking the sixth consecutive quarter of double-digit earnings growth, while revenue growth of +11.3% demonstrates broad-based top-line expansion.
-
- 
-
-Companies are reporting earnings that are 18.2% above estimates, well above the 5-year average of 7.3% and 10-year average of 7.1%, potentially marking the highest surprise percentage since Q1 2021.
-
- 
-
-For calendar year 2026, analysts are projecting earnings growth of 22.6% and revenue growth of 10.7%, with the forward 12-month P/E ratio at 21.2—above the 5-year average of 19.9 and 10-year average of 18.9.
-
- 
-
-Information Technology, Financials, and Industrials sectors have been substantial contributors to the increase in the overall earnings growth rate since the end of the quarter.
-
- 
-
-The five largest US cloud and AI infrastructure providers—Microsoft, Alphabet, Amazon, Meta, and Oracle—have collectively committed to spending between $660 billion and $690 billion on capital expenditure in 2026, the vast majority directed at AI compute, data centers, and networking.
-
- 
-
-However, skeptics point to warning signs as the ratio of AI infrastructure spending to AI-generated revenue remains extremely high, with Microsoft's targeted $25 billion in AI-related revenue for fiscal 2026 paling in comparison to its estimated capital expenditure, implying payback periods that could stretch many years.
-
- Margin durability amid elevated input costs from the energy shock and the sustainability of AI-driven capex remain the critical earnings debates heading into the second half.
-
-
-
-Eurozone economic growth was confirmed at 0.1% in the first quarter of 2026, marking the weakest expansion since Q2 2025, reflecting pressure from tight energy supplies after the Middle East conflict disrupted flows of oil, its byproducts, and liquefied natural gas.
-
- 
-
-The European Commission's Spring 2026 forecast projects EU GDP growth to slow to 1.1% this year—0.3 percentage points lower than the Autumn 2025 forecast—while inflation is expected to rise to 3.1%, an upward revision of a full percentage point.
-
- 
-
-The ECB kept its deposit facility rate unchanged at 2.00% in April, noting that the war in the Middle East has led to a sharp increase in energy prices, pushing up inflation and weighing on economic sentiment, with the implications for medium-term inflation and economic activity depending on the intensity and duration of the energy price shock.
-
- 
-
-For the ECB's June meeting, market pricing implies a 92.0% probability of interest rates increasing to 2.25%.
-
- 
-
-China's economy started the year strong, with GDP growth exceeding forecasts at 5% year-on-year in Q1, reversing the downward trend recorded in the latter half of 2025, though weak domestic consumption and lingering global uncertainty cloud the outlook.
-
- 
-
-Energy prices are projected to surge by 24% this year to their highest level since Russia's invasion of Ukraine in 2022, as the war in the Middle East has triggered the largest oil supply shock on record, with an initial reduction in global oil supply of about 10 million barrels per day.
-
- 
-
-European equities trade at 15 times their 2026 P/E ratio—in the 70th percentile over the last 25 years—but remain cheap versus most other assets, with a substantial discount to US peers based on their price/earnings-to-growth ratio.
-
- Geopolitical risk premia remain elevated, and the energy-dependent eurozone faces asymmetric downside risk should the Middle East conflict persist beyond current baseline assumptions.
-
-
-
-The Russell 2000 is tacking on gains and is out front in 2026 with a 12% YTD advance, signaling that investors aren't backing down from the risk-on trade.
-
- 
-
-The Russell 2000 is entering the May–July 2026 window having already posted its best monthly performance since December 2023, with IWM surging +11.7% in April 2026 after recovering from the March sell-off.
-
- 
-
-As of March 31, 2026, the Russell 2000 represented roughly 4.6% of the Russell 3000's market capitalization, well below its historical average of about 7.6%, and small-cap valuations on an EV/EBIT basis remained meaningfully below large-caps.
-
- 
-
-The S&P 600's forward P/E sits at 16x compared to 21x for the S&
+<cite index="41-1,41-4">The Russell 2000 is out front in 2026 with a 12% year-to-date advance, signaling that investors are maintaining risk-on positioning despite macro headwinds.</cite> <cite index="43-2,43-3">The Russell 2000 posted its best monthly performance since December 2023, surging 11.7% in April 2026, closing higher in 12 of 13 sessions, while the index outperformed the Nasdaq for a record 15 consecutive sessions in January 2026—the longest such streak since 1996.</cite> <cite index="44-1,44-4">As of March 31, 2026, the Russell 2000 represented roughly 4.6% of the Russell 3000's market capitalization, well below its historical average of approximately 7.6%, and small-cap valuations on an EV/EBIT basis remained meaningfully below large-caps.</cite> <cite index="41-13,41-14">The S&P 600's forward P/E sits at 16x compared to 21x for the S&P 500, a gap that historically has preceded strong forward returns for smaller companies, with small-cap earnings expected to grow 17.1% in 2026 and 18% in 2027.</cite> <cite index="39-14">Over 40% of the Russell 2000 remains currently unprofitable, creating a bifurcated market where quality small-caps with positive earnings meaningfully outperform the broader index.</cite> <cite index="43-4,43-14">Russell 2000 Q1 2026 earnings growth consensus stood at 44.9% year-over-year, and Aberdeen Investments notes that the Federal Reserve's 175 basis points of cuts from late 2024 through 2025 take 12–18 months to filter through small-cap balance sheets—meaning May, June, and July 2026 are precisely when the earnings benefit of lower floating-rate interest expense begins appearing in reported financials.</cite> <cite index="46-9,46-10">The 'One Big Beautiful Bill Act' restored 100% bonus depreciation and immediate domestic R&D expensing, disproportionately benefiting capital-intensive small-cap industrials and infrastructure plays.</cite> Positioning dynamics remain constructive as institutional allocations to small-cap remain underweight relative to history, while the domestic revenue orientation (approximately 70–80% US-sourced) provides insulation from geopolitical and currency volatility—though investors should tilt portfolios toward profitable, quality-screened small-cap exposure given refinancing risk among leveraged, unprofitable constituents.
 
 ---
 _For informational purposes only. Not investment advice. Generated using real-time web research synthesized by AI._
