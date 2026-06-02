@@ -1,0 +1,56 @@
+name: Monthly Equity Outlook
+
+on:
+  # Runs at 7:00 AM ET on the 1st of every month
+  schedule:
+    - cron: "0 12 1 * *"
+
+  # Also allows manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      month_year:
+        description: 'Override month/year (e.g. "June 2026"). Leave blank for current month.'
+        required: false
+        default: ""
+
+jobs:
+  generate-outlook:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Needed to commit the output file back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Generate equity outlook
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          OUTLOOK_RECIPIENT: ${{ secrets.OUTLOOK_RECIPIENT }}
+        run: |
+          if [ -n "${{ github.event.inputs.month_year }}" ]; then
+            python scripts/generate_outlook.py "${{ github.event.inputs.month_year }}"
+          else
+            python scripts/generate_outlook.py
+          fi
+
+      - name: Commit output to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Add equity outlook for $(date +'%B %Y')"
+          git push
