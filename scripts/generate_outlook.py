@@ -52,9 +52,14 @@ def generate_outlook(month: str, year: str) -> str:
         messages=[{"role": "user", "content": build_prompt(month, year)}],
     )
 
-    # Extract all text blocks (web search may produce intermediate tool blocks)
+   # Extract all text blocks (web search may produce intermediate tool blocks)
+    import re
     text_parts = [block.text for block in response.content if block.type == "text"]
-    return "\n\n".join(text_parts).strip()
+    full_text = "\n\n".join(text_parts).strip()
+    full_text = re.sub(r'\n{3,}', '\n\n', full_text)
+    full_text = re.sub(r'\s*,\s*\n', ', ', full_text)
+    full_text = re.sub(r'\s*\.\s*\n', '. ', full_text)
+    return full_text
 
 
 def save_markdown(text: str, month: str, year: str, output_dir: Path) -> Path:
